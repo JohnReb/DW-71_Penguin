@@ -2,9 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>Welcome to your App</title>
+		<link rel="stylesheet" type="text/css" href="assets/CSS/style.css">
 </head>
 <body>
- ulugñoh
+ <?php require 'partials/header.php'  ?>
+
 </body>
 </html>
